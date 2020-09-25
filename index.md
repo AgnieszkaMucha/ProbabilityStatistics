@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Organisation
+
+## Lectures
+
+## Tutorials
 
 You can use the [editor on GitHub](https://github.com/AgnieszkaMucha/Statistics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
