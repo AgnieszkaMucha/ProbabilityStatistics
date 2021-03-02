@@ -13,7 +13,7 @@ Introductory Statistics OpenStax Access [online](https://openstax.org/details/in
 
 ### Contact
 AGH WFiIS <br>
-D11 pok. 106 <br>
+D11 room 106 <br>
 ul. Kawiory 26a, 30-059 Kraków <br>
 phone 12 617 29 96 <br>
 mail: amucha@agh.edu.pl
