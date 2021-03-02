@@ -11,7 +11,7 @@ See the description: [here](https://www.statgraphics.com/stratus) and scroll dow
 ### Texbook: 
 Introductory Statistics OpenStax Access [online](https://openstax.org/details/introductory-statistics)
 
-### Contakt
+### Contact
 AGH WFiIS <br>
 D11 pok. 106 <br>
 ul. Kawiory 26a, 30-059 Kraków <br>
