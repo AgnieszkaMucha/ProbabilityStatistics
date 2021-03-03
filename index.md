@@ -9,8 +9,8 @@ We will use online vesion of Statgraphics (Stratus) that runs in your web browse
 See the description: [here](https://www.statgraphics.com/stratus) and scroll down for manual. Register to have an unlimited access.
 
 ### Texbook: 
-- Introductory Statistics OpenStax Access [online](https://openstax.org/details/introductory-statistics)
-- A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester Springer 2005
+- Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
+- A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
 ### Contact
 AGH WFiIS <br>
