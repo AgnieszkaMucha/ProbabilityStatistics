@@ -10,6 +10,7 @@ See the description: [here](https://www.statgraphics.com/stratus) and scroll dow
 
 ### Texbook: 
 Introductory Statistics OpenStax Access [online](https://openstax.org/details/introductory-statistics)
+A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester Springer 2005
 
 ### Contact
 AGH WFiIS <br>
