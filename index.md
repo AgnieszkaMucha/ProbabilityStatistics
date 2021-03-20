@@ -8,7 +8,7 @@ Wednesdays online on MSTeams with this [link](https://teams.microsoft.com/l/team
 - Assigments for [10th of March 2021](/FILES/Tutorial_2.pdf) 
 - Assigments for [17th of March 2021](/FILES/Tutorial_3.pdf)
 - Assigments for [24th of March 2021](/FILES/Tutorial_4.pdf)
-- Assigments for [31th of March 2021](/FILES/Tutorial_5.pdf)
+- Assigments for [31st of March 2021](/FILES/Tutorial_5.pdf)
 - Assigments for [14th of April 2021](/FILES/Tutorial_6.pdf) 
 - Assigments for [21st of April 2021](/FILES/Tutorial_6.pdf) 
 - Assigments for [28th of April 2021](/FILES/Tutorial_7.pdf) 
