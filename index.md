@@ -16,7 +16,7 @@ Wednesdays online on MSTeams with this [link](https://teams.microsoft.com/l/team
 - Assigments for [12th of May 2021](/FILES/Tutorial_7.pdf) 
 
 ### Laboratory
--Introduction [19.05.2021](/FILES/Introduction.pdf)
+- Introduction [19.05.2021](/FILES/Introduction.pdf)
 
 
 
