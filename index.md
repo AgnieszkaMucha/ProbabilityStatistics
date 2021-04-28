@@ -10,10 +10,13 @@ Wednesdays online on MSTeams with this [link](https://teams.microsoft.com/l/team
 - Assigments for [24th of March 2021](/FILES/Tutorial_3.pdf)
 - Assigments for [31st of March 2021](/FILES/Tutorial_3.pdf)
 - Assigments for [14th of April 2021](/FILES/Tutorial_4.pdf) 
-- Assigments for [21st of April 2021](/FILES/Tutorial_5.pdf) 
-- Assigments for [28th of April 2021](/FILES/Tutorial_6.pdf) 
+- Assigments for [21st of April 2021](/FILES/Tutorial_4.pdf) 
+- Assigments for [28th of April 2021](/FILES/Tutorial_5.pdf) [Practice makes perfect!][/FILES/Tutorial_5elearning] 
 - Assigments for [5th of May 2021](/FILES/Tutorial_6.pdf) 
 - Assigments for [12th of May 2021](/FILES/Tutorial_7.pdf) 
+
+### Laboratory
+-Introduction [19.05.2021](/FILES/Introduction.pdf)
 
 
 
