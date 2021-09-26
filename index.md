@@ -1,7 +1,10 @@
 ## AGH University of Science and Technology
-# Introduction to probability, statistics and data handling (ESA and UBPO)
+# Introduction to probability, statistics and data handling 
 
-### Tutorials
+### Lectures
+Lectures are held on Wednesdays at 9:40 in room 225 bulding D10 (Reymonta 19).
+
+### Tutorials (obsolete)
 Wednesdays online on MSTeams with this [link](https://teams.microsoft.com/l/team/19%3a3c0831d29f6b49dd8754afb0863cb075%40thread.tacv2/conversations?groupId=e08470b9-ecc7-42d5-90c9-cb1af728379f&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8) 
 
 - Assigments for [3rd of March 2021](/FILES/Tutorial_1.pdf) 
