@@ -17,7 +17,7 @@ Wednesdays online on MSTeams with this [link](https://teams.microsoft.com/l/team
 - Assigments [Joint distribution](/FILES/Tutorial_4.pdf) 
 - Assigments [Gaussioan and binomial distribution](/FILES/Tutorial_5.pdf) Practice makes perfect! [e-learning](/FILES/Tutorial_5elearning.pdf) 
 - Assigments [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
-- Assigments [Confidence intervals](/FILES/Tutorial_7.pdf) 
+- Assigments [Confidence intervals and hypothesis testing](/FILES/Tutorial_7a.pdf) 
 - Assigments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
 
 
