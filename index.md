@@ -21,12 +21,11 @@ Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19).
 - Assigments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
 
 
-### Laboratory
-- Introduction [19.05.2021](/FILES/Introduction.pdf)
-
-
-
-
+### Laboratory (Statgraphics stratus) [online](https://www.statgraphics.com/stratus) 
+1. Introduction 
+2. Laboratory 
+3. Laboratory
+4. Laboratory
 
 ### Contact (course coordinator)
 Agnieszka Obłąkowska-Mucha  <br>
