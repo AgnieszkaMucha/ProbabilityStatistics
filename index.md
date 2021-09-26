@@ -21,11 +21,11 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
 ### Laboratory (Statgraphics stratus) [online](https://www.statgraphics.com/stratus) 
-Wednesdays at 11:20 till 12:50 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
-1. Introduction 
-2. Laboratory 
-3. Laboratory
-4. Laboratory
+Wednesdays at 11:20 till 14-20 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
+1. Laboratory 15.12.2021 
+2. Laboratory 5.01.2022
+3. Laboratory 12.01.2021
+4. Laboratory 19.01.2022
 
 ### Contact 
 dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH (course coordinator) [mail](amucha@agh.edu.pl)  <br>
