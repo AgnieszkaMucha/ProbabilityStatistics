@@ -20,7 +20,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 - Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
-### Laboratory (Statgraphics stratus) [online](https://www.statgraphics.com/stratus) 
+### Laboratory [Statgraphics stratus](https://www.statgraphics.com/stratus) 
 Wednesdays at 11:20 till 14-20 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
 1. Laboratory 15.12.2021 
 2. Laboratory 5.01.2022
