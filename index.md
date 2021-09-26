@@ -27,12 +27,13 @@ Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19).
 3. Laboratory
 4. Laboratory
 
-### Contact (course coordinator)
-Agnieszka Obłąkowska-Mucha  <br>
+### Contact 
+dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH (course coordinator) [mail](amucha@agh.edu.pl)  <br>
+mgr Saliha Basir (assistant) [mail](bashir@agh.edu.pl) <br>
 AGH University of Science and Technology Kraków, Poland <br>
 Faculty of Physics and Computer Science <br>
 D11 room 106 <br>
 ul. Kawiory 26a, 30-055 Kraków <br>
 phone 12 617 29 96 <br>
-mail: amucha@agh.edu.pl
+
 
