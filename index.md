@@ -2,10 +2,10 @@
 # Introduction to probability, statistics and data handling 
 
 ### Lectures
-Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 bulding D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
+Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
 
 ### Tutorials
-Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
+Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
 
 - Assigments [Basic probability](/FILES/Tutorial_1.pdf) 
 - Assigments [Conditional probability](/FILES/Tutorial_2.pdf) 
@@ -21,7 +21,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19). First m
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
 ### Laboratory (Statgraphics stratus) [online](https://www.statgraphics.com/stratus) 
-Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
+Wednesdays at 11:20 till 12:50 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
 1. Introduction 
 2. Laboratory 
 3. Laboratory
