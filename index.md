@@ -34,6 +34,6 @@ AGH University of Science and Technology Kraków, Poland <br>
 Faculty of Physics and Computer Science <br>
 D11 room 106 <br>
 ul. Kawiory 26a, 30-055 Kraków <br>
-phone 12 617 29 96 <br>
+phone +48 12 617 29 96 <br>
 
 
