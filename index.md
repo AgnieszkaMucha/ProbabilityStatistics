@@ -4,10 +4,6 @@
 ### Lectures
 Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 bulding D10 (Reymonta 19).
 
-### Texbook: 
-- Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
-- A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
-
 ### Tutorials
 Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19).
 
@@ -20,6 +16,9 @@ Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19).
 - Assigments [Confidence intervals and hypothesis testing](/FILES/Tutorial_7a.pdf) 
 - Assigments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
 
+### Texbook: 
+- Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
+- A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
 ### Laboratory (Statgraphics stratus) [online](https://www.statgraphics.com/stratus) 
 1. Introduction 
