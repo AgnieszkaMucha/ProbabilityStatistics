@@ -28,7 +28,8 @@ Wednesdays at 11:20 till 12:50 in in room 225 bulding D10 (Reymonta 19).
 
 
 
-### Contact
+### Contact (course coordinator)
+Agnieszka Obłąkowska-Mucha  <br>
 AGH University of Science and Technology Kraków, Poland <br>
 Faculty of Physics and Computer Science <br>
 D11 room 106 <br>
