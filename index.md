@@ -1,4 +1,4 @@
-## AGH University of Science and Technology
+## AGH University of Science and Technology Krakow, Poland
 # Introduction to probability, statistics and data handling 
 
 ### Lectures
