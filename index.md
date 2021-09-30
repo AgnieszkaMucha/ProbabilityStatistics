@@ -31,7 +31,7 @@ Wednesdays at 11:20 till 14-20 in in room 207 building D10 (Reymonta 19). First 
 Course coordinator: dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH  [mail](amucha@agh.edu.pl)  <br>
 Assistant: mgr Saliha Bashir [mail](bashir@agh.edu.pl) <br>
 AGH University of Science and Technology Kraków, Poland <br>
-Faculty of Physics and Computer Science <br>
+Faculty of Physics and Applied Computer Science <br>
 D11 room 106 <br>
 ul. Kawiory 26a, 30-055 Kraków <br>
 phone +48 12 617 29 96 <br>
