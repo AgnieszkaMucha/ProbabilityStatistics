@@ -11,7 +11,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 - Assigments [Conditional probability](/FILES/Tutorial_2.pdf) 
 - Assigments [RD, pdf](/FILES/Tutorial_3.pdf)
 - Assigments [Joint distribution](/FILES/Tutorial_4.pdf) 
-- Assigments [Gaussioan and binomial distribution](/FILES/Tutorial_5.pdf) Practice makes perfect! [e-learning](/FILES/Tutorial_5elearning.pdf) 
+- Assigments [Gaussian and binomial distribution](/FILES/Tutorial_5.pdf) Practice makes perfect! [e-learning](/FILES/Tutorial_5elearning.pdf) 
 - Assigments [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
 - Assigments [Confidence intervals and hypothesis testing](/FILES/Tutorial_7a.pdf) 
 - Assigments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
