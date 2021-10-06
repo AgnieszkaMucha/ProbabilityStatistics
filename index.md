@@ -3,7 +3,7 @@
 
 ### Lectures
 Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
-- What is statistic and probability for? Conditional probability [Basic probability](/FILES/stat_1.pdf)
+- What is statistic and probability for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable 
 
 
