@@ -10,14 +10,14 @@ Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Re
 ### Tutorials
 Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
 
-- Assigments (13.10) [Basic probability](/FILES/Tutorial_1.pdf) 
-- Assigments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
-- Assigments [RD, pdf](/FILES/Tutorial_3.pdf)
-- Assigments [Joint distribution](/FILES/Tutorial_4.pdf) 
-- Assigments [Gaussian and binomial distribution](/FILES/Tutorial_5.pdf) Practice makes perfect! [e-learning](/FILES/Tutorial_5elearning.pdf) 
-- Assigments [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
-- Assigments [Confidence intervals and hypothesis testing](/FILES/Tutorial_7a.pdf) 
-- Assigments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
+- Assignments (13.10) [Basic probability](/FILES/Tutorial_1.pdf) 
+- Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
+- Assignments [RD, pdf](/FILES/Tutorial_3.pdf)
+- Assignments [Joint distribution](/FILES/Tutorial_4.pdf) 
+- Assignments [Gaussian and binomial distribution](/FILES/Tutorial_5.pdf) Practice makes perfect! [e-learning](/FILES/Tutorial_5elearning.pdf) 
+- Assignments [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
+- Assignments [Confidence intervals and hypothesis testing](/FILES/Tutorial_7a.pdf) 
+- Assignments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
 
 ### Texbook: 
 - Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
