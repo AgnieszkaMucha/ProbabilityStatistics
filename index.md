@@ -4,7 +4,9 @@
 ### Lectures
 Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
-- Random variable 
+- Random variable [Lecture](/FILES/stat_2.pdf)
+- 2D Random Variable [Lecture](/FILES/stat_3.pdf)
+- Gaussian and binomial distribution [Lecture](/FILES/stat_4.pdf)
 
 
 ### Tutorials
