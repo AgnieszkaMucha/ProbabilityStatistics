@@ -5,8 +5,8 @@
 Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
-- 2D Random Variable [Lecture](/FILES/stat_3.pdf)
-- Gaussian and binomial distribution [Lecture](/FILES/stat_4.pdf)
+- 2D Random Variable, standard RV, Bernouli distribution [Lecture](/FILES/stat_3.pdf)
+- Gaussian distribution [Lecture](/FILES/stat_4.pdf)
 
 
 ### Tutorials
@@ -14,7 +14,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 
 - Assignments (13.10) [Basic probability](/FILES/Tutorial_1.pdf) 
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
-- Assignments [RD, pdf](/FILES/Tutorial_3.pdf)
+- Assignments (27.10) [RD, pdf](/FILES/Tutorial_3.pdf)
 - Assignments [Joint distribution](/FILES/Tutorial_4.pdf) 
 - Assignments [Gaussian and binomial distribution](/FILES/Tutorial_5.pdf) Practice makes perfect! [e-learning](/FILES/Tutorial_5elearning.pdf) 
 - Assignments [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
