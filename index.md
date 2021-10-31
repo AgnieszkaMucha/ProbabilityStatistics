@@ -5,8 +5,11 @@
 Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
-- 2D Random Variable, standard RV, Chebyshev’s inequality [27.10 Lecture](/FILES/stat_3.pdf)
-- Bernouli, Poisson and Gaussian distributions  [3.11 Lecture](/FILES/stat_4.pdf)
+- 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture 27.10](/FILES/stat_3.pdf)
+- Bernouli, Poisson and Gaussian distributions  [Lecture 3.11](/FILES/stat_4.pdf)
+- Central Limit Theorem
+- Confidence intervals
+- Hyphothesis testing
 
 
 ### Tutorials
@@ -18,7 +21,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 - Assignments (3.11)  [Moments, joint distribution](/FILES/Tutorial_4.pdf) 
 - Assignments [Gaussian and binomial distribution](/FILES/Tutorial_5.pdf) Practice makes perfect! [e-learning](/FILES/Tutorial_5elearning.pdf) 
 - Assignments [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
-- Assignments [Confidence intervals and hypothesis testing](/FILES/Tutorial_7a.pdf) 
+- Assignments [Confidence intervals and Confidence intervals](/FILES/Tutorial_7a.pdf) 
 - Assignments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
 
 ### Texbook: 
