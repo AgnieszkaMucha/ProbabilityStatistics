@@ -6,7 +6,7 @@ Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Re
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
-- Bernouli, Poisson and Gaussian distributions [Lecture](/FILES/stat_4.pdf)
+- Bernouli, Poisson and Gaussian distributions  [3.11 Lecture](/FILES/stat_4.pdf)
 
 
 ### Tutorials
