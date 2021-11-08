@@ -20,7 +20,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 - Assignments (27.10) [RD, pdf](/FILES/Tutorial_3.pdf)
 - Assignments (3.11)  [Moments, joint distribution](/FILES/Tutorial_4.pdf) 
 - Assignments (10.11) [Gaussian and binomial distribution](/FILES/Tutorial_5.pdf) 
-- Assignments (17.11) [More practise with normal distribution](/FILES/Tutorial_5elearning.pdf) 
+- Assignments (17.11) [More practice with normal distribution](/FILES/Tutorial_5elearning.pdf) 
 - Assignments [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
 - Assignments [Confidence intervals and Confidence intervals](/FILES/Tutorial_7a.pdf) 
 - Assignments [Hyphothesis testing](/FILES/Tutorial_8.pdf) 
