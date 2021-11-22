@@ -10,6 +10,12 @@ Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Re
 - Central Limit Theorem  [Lecture 17.11](/FILES/stat_6.pdf)
 - Confidence intervals 23.11
 - Hyphothesis testing 1.12
+- Lecture 8.12
+- Lecture 15.12
+- Lecture 5.01
+- Lecture 12.01
+- Final test 19.01
+- Retake test 26.01
 
 
 ### Tutorials
