@@ -8,6 +8,7 @@ Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Re
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture 27.10](/FILES/stat_3.pdf)
 - Bernouli, Poisson and Gaussian distributions  [Lecture 3.11 and 10.11](/FILES/stat_4.pdf)
 - Central Limit Theorem  [Lecture 17.11](/FILES/stat_6.pdf)
+- Point estimation 24.11
 - Confidence intervals 23.11
 - Hyphothesis testing 1.12
 - Lecture 8.12
