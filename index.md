@@ -12,7 +12,7 @@ Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Re
 - Confidence intervals  [Lecture](/FILES/stat_8.pdf)
 - Hyphothesis testing  [Lecture](/FILES/stat_9.pdf)
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
-- Lecture 15.12
+- Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Lecture 12.01
 - Final test 19.01
 - Retake test 26.01
