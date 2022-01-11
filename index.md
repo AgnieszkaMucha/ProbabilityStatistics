@@ -38,7 +38,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Wednesdays at 11:20 till 14-20 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
 1. Laboratory [description](/FILES/LAB_1_winter2021.pdf)
-2. Laboratory 12.01.2021 [CL description](/FILES/LAB_2_winter2021.pdf), [Height data](/FILES/Height_data1.txt), [two samples data](/FILES/two_samples.csv)
+2. Laboratory 12.01.2021 [CL description](/FILES/LAB_2_winter2021.pdf), [Height data](/FILES/Height_data1.txt), [two samples data](/FILES/two_sample.sgd)
 3. Laboratory 19.01.2022
 
 ### Contact 
