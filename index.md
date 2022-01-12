@@ -13,9 +13,8 @@ Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Re
 - Hyphothesis testing  [Lecture](/FILES/stat_9.pdf)
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
-- Curve fitting and regression  12.01
-- Final test 19.01
-- Retake test 26.01
+- Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
+- Final test 26.01 at 9:40
 
 
 ### Tutorials
@@ -38,7 +37,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Wednesdays at 11:20 till 14-20 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
 1. Laboratory [description](/FILES/LAB_1_winter2021.pdf)
-2. Laboratory 12.01.2021 [CL description](/FILES/lab2_CI_hypotest.pdf), [Height data](/FILES/Height_data1.txt)
+2. Laboratory 12.01.2021 [CL description](/FILES/lab2_CI_hypotest.pdf), [Height data](/FILES/Height_data.txt)
 3. Laboratory 19.01.2022
 
 ### Contact 
