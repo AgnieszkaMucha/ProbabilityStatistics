@@ -36,9 +36,9 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Wednesdays at 11:20 till 14-20 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
-1. Laboratory [description](/FILES/LAB_1_winter2021.pdf)
-2. Laboratory 12.01.2021 [CL description](/FILES/lab2_CI_hypotest.pdf), [Height data](/FILES/Height_data.txt)
-3. Laboratory 19.01.2022
+1. Laboratory [description](/FILES/LAB_1_winter2021.pdf) 
+2. Laboratory 12.01.2021 [CL description](/FILES/lab2_CI_hypotest.pdf), [Height data](/FILES/Height_data.txt), Two samples comparison
+3. Laboratory 19.01.2022 On-way ANOVA, Regression, Monte Carlo methods
 
 ### Contact 
 Course coordinator: dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH  [mail](amucha@agh.edu.pl)  <br>
