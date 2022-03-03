@@ -19,6 +19,7 @@ Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymont
 
 ### Tutorials
 Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 10th of March.
+
 <!-- 
 - Assignments  [Basic probability](/FILES/Tutorial_1.pdf) 
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
@@ -30,6 +31,7 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - Assignments (1.12) [Confidence intervals](/FILES/Tutorial_7.pdf) 
 - Assignments (8.12) [Hyphothesis testing](/FILES/Tutorial_8a.pdf) 
 -->
+
 ### Texbook: 
 - Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
