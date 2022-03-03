@@ -35,11 +35,12 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 6
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
-Wednesdays at 11:20 till 14-20 in in room 207 building D10 (Reymonta 19). First meeting: 15th of December, see Unitime.
+Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). First meeting: 19.05.2022, see Unitime.
+<!--
 1. Laboratory [description](/FILES/LAB_1_winter2021.pdf) 
 2. Laboratory 12.01.2021 [CL description](/FILES/lab2_CI_hypotest.pdf), [Height data](/FILES/Height_data.txt), Two samples comparison
 3. Laboratory 19.01.2022 On-way ANOVA, Regression, Monte Carlo methods
-
+-->
 ### Contact 
 Course coordinator: dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH  [mail](amucha@agh.edu.pl)  <br>
 Assistant: mgr Saliha Bashir [mail](bashir@agh.edu.pl) <br>
