@@ -2,7 +2,7 @@
 # Introduction to probability, statistics and data handling 
 
 ### Lectures
-Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
+Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
@@ -14,14 +14,13 @@ Lectures are held on Wednesdays at 9:40  till 11:10 in room 225 building D10 (Re
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
-- Tutorial retake test 19.01 at 10:00
-- Final test 26.01 at 9:40
+- Final test 
 
 
 ### Tutorials
-Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
-
-- Assignments (13.10) [Basic probability](/FILES/Tutorial_1.pdf) 
+Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
+<!--
+- Assignments  [Basic probability](/FILES/Tutorial_1.pdf) 
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
 - Assignments (27.10) [RD, pdf](/FILES/Tutorial_3.pdf) +quiz
 - Assignments (3.11)  [Moments, joint distribution](/FILES/Tutorial_4.pdf) 
@@ -30,7 +29,7 @@ Wednesdays at 11:20 till 12:50 in in room 225 building D10 (Reymonta 19). First 
 - Assignments (24.11) [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
 - Assignments (1.12) [Confidence intervals](/FILES/Tutorial_7.pdf) 
 - Assignments (8.12) [Hyphothesis testing](/FILES/Tutorial_8a.pdf) 
-
+-->
 ### Texbook: 
 - Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
