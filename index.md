@@ -2,7 +2,7 @@
 # Introduction to probability, statistics and data handling 
 
 ### Lectures
-Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymonta 19). First meeting: 6th of October, see Unitime.
+Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymonta 19). First meeting: 3rd of March 2022.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
@@ -18,7 +18,7 @@ Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymont
 
 
 ### Tutorials
-Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 10th of March, see Unitime.
+Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 10th of March.
 <!-- 
 - Assignments  [Basic probability](/FILES/Tutorial_1.pdf) 
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
@@ -35,7 +35,7 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
-Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). First meeting: 19.05.2022, see Unitime.
+Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). First meeting: 19.05.2022.
 <!--
 1. Laboratory [description](/FILES/LAB_1_winter2021.pdf) 
 2. Laboratory 12.01.2021 [CL description](/FILES/lab2_CI_hypotest.pdf), [Height data](/FILES/Height_data.txt), Two samples comparison
