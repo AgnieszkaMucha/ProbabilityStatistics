@@ -21,7 +21,7 @@ Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymont
 Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 10th of March.
 
 
-- Assignments  [Basic probability] (10.03) (/FILES/Statistics_Tutorial1.pdf) 
+- Assignments  (10.03)[Basic probability](/FILES/Statistics_Tutorial1.pdf) 
 <!--
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
 - Assignments (27.10) [RD, pdf](/FILES/Tutorial_3.pdf) +quiz
