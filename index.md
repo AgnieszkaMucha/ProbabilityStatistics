@@ -22,7 +22,7 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - Assignments  (10.03) [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
 - Assignments  (17.03)  [Conditional probability](/FILES/Statistics_Tutorial2.pdf) 
 - Assignments  (24.03)  [RV, pdf](/FILES/tutorial3.pdf) 
-
+- Assignments (31.03)  [Joint distribution](/FILES/tutorial_4.pdf) 
 <!--
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
 - Assignments (27.10) [RD, pdf](/FILES/Tutorial_3.pdf) +quiz
