@@ -6,7 +6,7 @@ Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymont
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
-- Bernouli, Poisson and Gaussian distributions  [Lecture](/FILES/stat_4.pdf)
+- Bernouli, Poisson and Gaussian distributions  [Lecture](/FILES/stat_4-5.pdf)
 - Central Limit Theorem  [Lecture](/FILES/stat_6.pdf)
 - Point estimation  [Lecture](/FILES/stat_7.pdf)
 - Confidence intervals  [Lecture](/FILES/stat_8.pdf)
