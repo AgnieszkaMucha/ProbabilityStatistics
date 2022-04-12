@@ -24,6 +24,7 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - Assignments  (24.03)  [RV, pdf](/FILES/tutorial3.pdf) 
 - Assignments (31.03)  [Joint distribution](/FILES/tutorial_4.pdf) 
 - Assignments (7.04) [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
+- More practice with [normal distribution](/FILES/tutorial5_practice.pdf)
 
 <!--
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
