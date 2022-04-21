@@ -26,6 +26,8 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - Assignments (7.04) [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
 - More practice with [normal distribution](/FILES/tutorial5-practice.pdf)
 - Assignments (21.04) [Central Limit Theorem](/FILES/tutorial6.pdf) + quiz 
+
+
 <!--
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
 - Assignments (27.10) [RD, pdf](/FILES/Tutorial_3.pdf) +quiz
