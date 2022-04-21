@@ -14,7 +14,8 @@ Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymont
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
-- Final test 
+- Final test 15.06*
+* requirement: positive grade from tutorial
 
 
 ### Tutorials
@@ -25,7 +26,17 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - Assignments (31.03)  [Joint distribution](/FILES/tutorial_4.pdf) 
 - Assignments (7.04) [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
 - More practice with [normal distribution](/FILES/tutorial5-practice.pdf)
-- Assignments (21.04) [Central Limit Theorem](/FILES/tutorial6.pdf) + quiz 
+- Assignments (28.04) [Central Limit Theorem](/FILES/tutorial6.pdf) + quiz 
+- Assignments (5.05) [Confidence intervals] 
+- Assignments (12.05) [Hyphothesis testing] 
+
+
+### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
+Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
+- First meeting: 19.05.2022. + quiz
+- Lab 2 26.05.2022. 
+- Lab 3 02.06.2022.
+- Lab 4 09.06.2022.
 
 
 <!--
@@ -43,8 +54,6 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
 - A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
-### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
-Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). First meeting: 19.05.2022.
 
 <!--
 1. Laboratory [description](/FILES/LAB_1_winter2021.pdf) 
