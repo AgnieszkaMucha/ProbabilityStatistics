@@ -27,7 +27,7 @@ Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 1
 - Assignments (21.04) more practice with [normal distribution](/FILES/tutorial5-practice.pdf)  + quiz 
 - Assignments (28.04) [Central Limit Theorem](/FILES/tutorial6.pdf) 
 - Assignments (5.05) [Confidence intervals](/FILES/tutorial7.pdf)
-- Assignments (12.05) [Hyphothesis testing] 
+- Assignments (12.05) [Hyphothesis testing](/FILES/tutorial8.pdf)
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
