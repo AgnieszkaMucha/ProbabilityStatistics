@@ -35,6 +35,7 @@ Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19).
 - First meeting: 26.05.2022. + quiz
 - Lab 2 02.06.2022.
 - Lab 3 09.06.2022.
+- Lab 4 15.06.2022
 
 
 <!--
