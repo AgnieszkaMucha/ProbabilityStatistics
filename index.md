@@ -2,7 +2,7 @@
 # Introduction to probability, statistics and data handling 
 
 ### Lectures
-Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymonta 19). First meeting: 3rd of March 2022.
+Lectures are held on Wednesdays  at 9:40-11:10 in room D10/22oom 225 building D10 (Reymonta 19). First meeting: 5th of October 2022.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
@@ -18,16 +18,16 @@ Lectures are held on Thursdays at 8  till 9:30 in room 225 building D10 (Reymont
 
 
 ### Tutorials
-Thursdays at 9:40-11:10 in room 225 building D10 (Reymonta 19). First meeting: 10th of March.
-- Assignments  (10.03) [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
-- Assignments  (17.03)  [Conditional probability](/FILES/Statistics_Tutorial2.pdf) 
-- Assignments  (24.03)  [RV, pdf](/FILES/tutorial3.pdf) 
-- Assignments (31.03)  [Joint distribution](/FILES/tutorial_4.pdf) 
-- Assignments (7.04) [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
-- Assignments (21.04) more practice with [normal distribution](/FILES/tutorial5-practice.pdf)  + quiz 
-- Assignments (28.04) [Central Limit Theorem](/FILES/tutorial6.pdf) 
-- Assignments (5.05) [Confidence intervals](/FILES/tutorial7.pdf)
-- Assignments (12.05) [Hyphothesis testing](/FILES/tutorial8.pdf)
+Thursdays at 11:20-12:50 in room 225 building D10 (Reymonta 19). First meeting: 5th of October.
+- Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
+- Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) 
+- Assignments [RV, pdf](/FILES/tutorial3.pdf) 
+- Assignments [Joint distribution](/FILES/tutorial_4.pdf) 
+- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
+- Assignments more practice with [normal distribution](/FILES/tutorial5-practice.pdf)  + quiz 
+- Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
+- Assignments [Confidence intervals](/FILES/tutorial7.pdf)
+- Assignments [Hyphothesis testing](/FILES/tutorial8.pdf)
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
