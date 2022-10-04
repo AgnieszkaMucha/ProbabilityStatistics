@@ -2,7 +2,7 @@
 # Introduction to probability, statistics and data handling 
 
 ### Lectures
-Lectures are held on Wednesdays  at 9:40-11:10 in room D10/22oom 225 building D10 (Reymonta 19). First meeting: 5th of October 2022.
+Lectures are held on Wednesdays  at 9:40-11:10 in room D10 room 225 building D10 (Reymonta 19). First meeting: 5th of October 2022.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
