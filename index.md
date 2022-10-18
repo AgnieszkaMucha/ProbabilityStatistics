@@ -21,8 +21,8 @@ Lectures are held on Wednesdays  at 9:40-11:10 in room D10 room 225 building D10
 Thursdays at 11:20-12:50 in room 225 building D10 (Reymonta 19). First meeting: 5th of October.
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
 - Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) 
-- Assignments [RV, pdf](/FILES/tutorial3.pdf) 
-- Assignments [Joint distribution](/FILES/tutorial_4.pdf) 
+- Assignments [RV, pdf](/FILES/Statistics_Tutorial_3.pdf) 
+- Assignments [Joint distribution](/FILESStatistics_Tutorial_4.pdf) 
 - Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
 - Assignments more practice with [normal distribution](/FILES/tutorial5-practice.pdf)  + quiz 
 - Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
@@ -62,7 +62,6 @@ Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19).
 
 ### Contact 
 Course coordinator: dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH  [mail](amucha@agh.edu.pl)  <br>
-Assistant: mgr Saliha Bashir [mail](bashir@agh.edu.pl) <br>
 AGH University of Science and Technology Kraków, Poland <br>
 Faculty of Physics and Applied Computer Science <br>
 D11 room 106 <br>
