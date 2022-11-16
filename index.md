@@ -14,7 +14,7 @@ Lectures are held on Wednesdays  at 9:40-11:10 in room D10 room 225 building D10
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
-- Final test 15.06 (requirement: positive grade from tutorials)
+- Final test (requirement: positive grade from tutorials)
 
 
 ### Tutorials
@@ -32,10 +32,10 @@ Thursdays at 11:25-12:55 in room 225 building D10 (Reymonta 19). First meeting: 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
-- First meeting: 26.05.2022. + quiz
-- Lab 2 02.06.2022.
-- Lab 3 09.06.2022.
-- Lab 4 15.06.2022
+- First meeting: 
+- Lab 2 
+- Lab 3 
+- Lab 4 
 
 
 <!--
