@@ -26,8 +26,8 @@ Thursdays at 11:25-12:55 in room 225 building D10 (Reymonta 19). First meeting: 
 - Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) (16.10)
 - Assignments more practice with [normal distribution](/FILES/tutorial5-practice.pdf)  
 - Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) (7.12)
-- Assignments [Confidence intervals](/FILES/tutorial7.pdf) (15.12)
-- Assignments [Hyphothesis testing](/FILES/tutorial8.pdf)
+- Assignments [Confidence intervals](/FILES/tutorial7.pdf) (14.12)
+- Assignments [Hyphothesis testing](/FILES/tutorial8.pdf) (21.12)
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
