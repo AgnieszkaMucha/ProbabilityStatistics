@@ -33,8 +33,8 @@ Thursdays at 11:25-12:55 in room 225 building D10 (Reymonta 19). First meeting: 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
 - First meeting: 23.11.2022 [Instruction](/FILES/LAB_1_winter2021.pdf)
-- Lab 2 4.01.2023 [CL description](/FILES/lab2_CI_hypotest.pdf), [Height data](/FILES/Height_data.txt), Two samples comparison
-- Lab 3 
+- Lab 2 4.01.2023 [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
+- Lab 3 11.01.2023 + quiz 
 - Lab 4 
 
 
