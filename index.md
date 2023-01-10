@@ -35,6 +35,7 @@ Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19).
 - First meeting: 23.11.2022 [Instruction](/FILES/LAB_1_winter2021.pdf)
 - Lab 2 4.01.2023 [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
 - Lab 3 11.01.2023 + quiz (CI, hypothesis), <br>
+Description of the tasks: [lab3](/FILES/LAB_3_winter2021.pdf)
 Regression-[data](/FILES/regression_SAT_example.txt), <br>
 Two samples-[data](FILES/TwoSample.txt)+[instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/Two_Sample_Comparison_1-1.pdf)
 - Lab 4 
