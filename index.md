@@ -14,7 +14,8 @@ Lectures are held on Wednesdays  at 9:40-11:10 in room D10 room 225 building D10
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
-- Final test (requirement: positive grade from tutorials)
+- Retake test 18.01.2023 at 9:40
+- Final test 25.01.2023 at 9:40 (requirement: positive grade from tutorials)
 
 
 ### Tutorials
