@@ -37,7 +37,8 @@ Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19).
 - Lab 3 11.01.2023 + quiz (CI, hypothesis), <br>
 Description of the tasks: [lab3](/FILES/LAB_winter2022_3.pdf) <br>
 Regression-[data](/FILES/regression_SAT_example.txt), <br>
-Two samples-[data](FILES/TwoSample.txt)+[instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/Two_Sample_Comparison_1-1.pdf)
+Two samples-[data](FILES/TwoSample.txt)+[instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/Two_Sample_Comparison_1-1.pdf) <br>
+ANOVA [instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/One-Way_ANOVA.pdf)
 - Lab 4 
 
 
