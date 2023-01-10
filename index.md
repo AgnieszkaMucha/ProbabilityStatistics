@@ -34,7 +34,7 @@ Thursdays at 11:25-12:55 in room 225 building D10 (Reymonta 19). First meeting: 
 Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
 - First meeting: 23.11.2022 [Instruction](/FILES/LAB_1_winter2021.pdf)
 - Lab 2 4.01.2023 [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
-- Lab 3 11.01.2023 + quiz (CI, hypothesis), Regression [data](/FILES/regression_SAT_example.txt)
+- Lab 3 11.01.2023 + quiz (CI, hypothesis), Regression-[data](/FILES/regression_SAT_example.txt), Two samples-[data](FILES/TwoSample.txt)
 - Lab 4 
 
 
