@@ -16,6 +16,7 @@ Lectures are held on Wednesdays  at 9:40-11:10 in room D10 room 225 building D10
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
 - Retake test 18.01.2023 at 9:40
 - Exam 25.01.2023 at 9:40 (requirement: positive grade from tutorials)
+- Retake exam 01.02.2023 at 15:00 (requirement: positive grade from tutorials)
 
 
 ### Tutorials
