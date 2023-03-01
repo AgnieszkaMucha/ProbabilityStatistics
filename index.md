@@ -2,7 +2,7 @@
 # Introduction to probability, statistics and data handling 
 
 ### Lectures
-Lectures are held on Wednesdays  at 9:40-11:10 in room D10 room 225 building D10 (Reymonta 19). First meeting: 5th of October 2022.
+Lectures are held on Thursdays  at 8-9:30 in room D10 room 225 building D10 (Reymonta 19). First meeting: 2nd of March 2023.
 - What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
@@ -14,13 +14,13 @@ Lectures are held on Wednesdays  at 9:40-11:10 in room D10 room 225 building D10
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
-- Retake test 18.01.2023 at 9:40
-- Exam 25.01.2023 at 9:40 (requirement: positive grade from tutorials)
-- Retake exam  and tutorial 01.02.2023 at 13:00 108 D10 
+- Retake test 
+- Exam  (requirement: positive grade from tutorials)
+- Retake exam  and tutorial 
 
 
 ### Tutorials
-Thursdays at 11:25-12:55 in room 225 building D10 (Reymonta 19). First meeting: 5th of October.
+Thursdays at 9:40-11:10  in room 225 building D10 (Reymonta 19). First meeting: 2nd of March 2023.
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) (5.10)
 - Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) (12.10)
 - Assignments [RV, pdf](/FILES/Statistics_Tutorial_3.pdf) (19.10)
@@ -34,9 +34,9 @@ Thursdays at 11:25-12:55 in room 225 building D10 (Reymonta 19). First meeting: 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
-- First meeting: 23.11.2022 [Instruction](/FILES/LAB_1_winter2021.pdf)
-- Lab 2 4.01.2023 [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
-- Lab 3 11.01.2023 + quiz (CI, hypothesis), <br>
+- First meeting:  [Instruction](/FILES/LAB_1_winter2021.pdf)
+- Lab 2  [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
+- Lab 3 <br>
 Description of the tasks: [lab3](/FILES/LAB_winter2022_3.pdf) <br>
 Regression-[data](/FILES/regression_SAT_example.txt), <br>
 Two samples-[data](FILES/TwoSample.txt)+[instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/Two_Sample_Comparison_1-1.pdf) <br>
