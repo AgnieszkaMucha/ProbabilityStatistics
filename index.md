@@ -21,15 +21,15 @@ Lectures are held on Thursdays  at 8-9:30 in room D10 room 225 building D10 (Rey
 
 ### Tutorials
 Thursdays at 9:40-11:10  in room 225 building D10 (Reymonta 19). First meeting: 2nd of March 2023.
-- Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) (5.10)
-- Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) (12.10)
-- Assignments [RV, pdf](/FILES/Statistics_Tutorial_3.pdf) (19.10)
-- Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf)+quiz (26.10)
-- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) (16.10)
+- Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) (9.03)
+- Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) (9.03)
+- Assignments [RV, pdf](/FILES/Statistics_Tutorial_3.pdf) (16.03)
+- Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf)
+- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf)
 - Assignments more practice with [normal distribution](/FILES/tutorial5-practice.pdf)  
-- Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) (7.12)
-- Assignments [Confidence intervals](/FILES/tutorial7.pdf) (14.12)
-- Assignments [Hyphothesis testing](/FILES/tutorial8.pdf) (21.12)
+- Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
+- Assignments [Confidence intervals](/FILES/tutorial7.pdf) 
+- Assignments [Hyphothesis testing](/FILES/tutorial8.pdf) 
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
