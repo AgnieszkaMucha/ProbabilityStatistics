@@ -26,7 +26,7 @@ Thursdays at 9:40-11:10  in room 225 building D10 (Reymonta 19). First meeting: 
 - Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) (16.03)
 - Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf)
 - Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf)
-- Assignments more practice with [normal distribution](/FILES/tutorial5-practice.pdf)  
+- Assignments more practice with [normal distribution](/FILES/Tutorial_5b.pdf)  
 - Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
 - Assignments [Confidence intervals](/FILES/tutorial7.pdf) 
 - Assignments [Hyphothesis testing](/FILES/tutorial8.pdf) 
