@@ -24,19 +24,20 @@ Thursdays at 9:40-11:10  in room 225 building D10 (Reymonta 19). First meeting: 
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) (9.03)
 - Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) (9.03)
 - Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) (16.03)
-- Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf)
-- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf)
-- Assignments more practice with [normal distribution](/FILES/Tutorial_5b.pdf)  
-- Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
-- Assignments [Confidence intervals](/FILES/tutorial7.pdf) 
+- Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf) (23.03)
+- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) (30.03)
+- Assignments more practice with [normal distribution](/FILES/Tutorial_5b.pdf) (13.04) 
+- Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) (20.04)
+- Assignments [Confidence intervals](/FILES/tutorial7.pdf) (27.04)
 - Assignments [Hyphothesis testing](/FILES/tutorial8.pdf) 
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
-- First meeting:  [Instruction](/FILES/LAB_1_winter2021.pdf)
-- Lab 2  [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
-- Lab 3 <br>
+- First meeting: 4.05 [Instruction](/FILES/LAB_1_winter2021.pdf)
+- Lab 2 11.05 [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
+- Lab 3 18.05 <br>
+- Lab 4 25.05
 Description of the tasks: [lab3](/FILES/LAB_winter2022_3.pdf) <br>
 Regression-[data](/FILES/regression_SAT_example.txt), <br>
 Two samples-[data](FILES/TwoSample.txt)+[instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/Two_Sample_Comparison_1-1.pdf) <br>
