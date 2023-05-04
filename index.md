@@ -16,7 +16,7 @@ Lectures are held on Thursdays  at 8-9:30 in room D10 room 225 building D10 (Rey
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
 - Retake test 
 - Exam 15.06.2023 in-person  (requirement: positive grade from tutorials)
-- Retake exam 6.07.2023 in-person
+- Retake exam 6.07.2023 in-person 
 
 
 ### Tutorials
