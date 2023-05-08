@@ -34,15 +34,11 @@ Thursdays at 9:40-11:10  in room 225 building D10 (Reymonta 19). First meeting: 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
 Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
-- First meeting: 4.05 [Instruction](/FILES/LAB_1_winter2021.pdf)
-- Lab 2 11.05 [CL description](/FILES/LAB_winter2022_2.pdf), [Height data](/FILES/Height_data.txt)
-- Lab 3 18.05 <br>
-- Lab 4 25.05
-Description of the tasks: [lab3](/FILES/LAB_winter2022_3.pdf) <br>
-Regression-[data](/FILES/regression_SAT_example.txt), <br>
-Two samples-[data](FILES/TwoSample.txt)+[instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/Two_Sample_Comparison_1-1.pdf) <br>
-ANOVA [instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/One-Way_ANOVA.pdf)
-- Lab 4 
+- Lab 1 4.05 [Instruction](/FILES/Lab1-04.05.pdf)
+- Lab 2 11.05 [Instruction](/FILES/Lab2-11.05.pdf)
+- Lab 3 18.05 [Instruction](/FILES/Lab3-18.05.pdf)
+- Lab 4 25.05 [Instruction](/FILES/Lab4-25.05.pdf)
+
 
 
 <!--
@@ -54,6 +50,14 @@ ANOVA [instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/One-Way_ANOVA.pdf
 - Assignments (24.11) [Central Limit Theorem](/FILES/Tutorial_6.pdf) 
 - Assignments (1.12) [Confidence intervals](/FILES/Tutorial_7.pdf) 
 - Assignments (8.12) [Hyphothesis testing](/FILES/Tutorial_8a.pdf) 
+
+Description of the tasks: [lab3](/FILES/LAB_winter2022_3.pdf) <br>
+Regression-[data](/FILES/regression_SAT_example.txt), <br>
+Two samples-[data](FILES/TwoSample.txt)+[instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/Two_Sample_Comparison_1-1.pdf) <br>
+ANOVA [instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/One-Way_ANOVA.pdf)
+- Lab 4 
+
+
 -->
 
 ### Texbook: 
