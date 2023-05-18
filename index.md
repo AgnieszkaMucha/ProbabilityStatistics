@@ -12,8 +12,8 @@ Lectures are held on Thursdays  at 8-9:30 in room D10 room 225 building D10 (Rey
 - Confidence intervals  [Lecture](/FILES/stat_8.pdf)
 - Hyphothesis testing  [Lecture](/FILES/stat_9.pdf)
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
-- Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
+- Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Retake test 
 - Exam 15.06.2023 in-person  (requirement: positive grade from tutorials)
 - Retake exam 6.07.2023 in-person 
