@@ -15,7 +15,7 @@ Lectures are held on Thursdays  at 8-9:30 in room D10 room 225 building D10 (Rey
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Retake test 
-- Exam 15.06.2023 in-person  (requirement: positive grade from tutorials)
+- Exam 15.06.2023 in-person at 9:30 in 225/D10  (requirement: positive grade from tutorials)
 - Additional date for exam 28.06 or 29.06 or 3.07 or 6.07.2023 oral, it can be taken remotely or in-person
 
 
