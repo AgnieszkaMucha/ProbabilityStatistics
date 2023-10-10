@@ -1,43 +1,42 @@
 ## AGH University of Science and Technology Krakow, Poland
-# Introduction to probability, statistics and data handling 
+# Introduction to probability, statistics, and data handling 
 
 ### Lectures
-Lectures are held on Thursdays  at 8-9:30 in room D10 room 225 building D10 (Reymonta 19). First meeting: 2nd of March 2023.
-- What is statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
+Lectures are held on Wednesdays from 9:40-11:10 in room D10 room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
+- What is a statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
 - Bernouli, Poisson and Gaussian distributions  [Lecture](/FILES/stat_4-5.pdf)
 - Central Limit Theorem  [Lecture](/FILES/stat_6.pdf)  [Statistical tables](/FILES/StatistialTables.pdf) 
 - Point estimation  [Lecture](/FILES/stat_7.pdf)
 - Confidence intervals  [Lecture](/FILES/stat_8.pdf)
-- Hyphothesis testing  [Lecture](/FILES/stat_9.pdf)
+- Hypothesis testing  [Lecture](/FILES/stat_9.pdf)
 - Tests for means and variance cont. [Lecture](/FILES/stat_10.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Retake test 
-- Exam 15.06.2023 in-person at 9:30 in 225/D10  (requirement: positive grade from tutorials)
-- Additional date for exam 28.06 or 29.06 or 3.07 or 6.07.2023 oral, it can be taken remotely or in-person
-
+- Exam  (requirement: positive grade from tutorials)
+- Retake exam
 
 ### Tutorials
-Thursdays at 9:40-11:10  in room 225 building D10 (Reymonta 19). First meeting: 2nd of March 2023.
-- Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) (9.03)
-- Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) (9.03)
-- Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) (16.03)
-- Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf) (23.03)
-- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) (30.03)
-- Assignments more practice with [normal distribution](/FILES/Tutorial_5b.pdf) (13.04) 
-- Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) (20.04)
-- Assignments [Confidence intervals](/FILES/tutorial7.pdf) (27.04)
+Wednesdays at 11:20-12:50  in room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
+- Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
+- Assignments [Conditional probability](/FILES/Statistics_Tutorial2.pdf) 
+- Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) 
+- Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf) 
+- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
+- Assignments more practice with [normal distribution](/FILES/Tutorial_5b.pdf)  
+- Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
+- Assignments [Confidence intervals](/FILES/tutorial7.pdf) 
 - Assignments [Hyphothesis testing](/FILES/tutorial8.pdf) 
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
-Thursdays at 9:40-11:10  in room 207 building D10 (Reymonta 19). 
-- Lab 1 4.05 [Instruction](/FILES/Lab1-04.05.pdf)
-- Lab 2 11.05 [Instruction](/FILES/Lab2-11.05.pdf)
-- Lab 3 18.05 [Instruction](/FILES/Lab3-18.05.pdf)
-- Lab 4 25.05 [Instruction](/FILES/Lab4-25.05.pdf)
+Wednesdays at 11:20-12:50 (starting in December)  in room 207 building D10 (Reymonta 19). 
+- Lab 1 [Instruction](/FILES/Lab1-04.05.pdf)
+- Lab 2 [Instruction](/FILES/Lab2-11.05.pdf)
+- Lab 3 [Instruction](/FILES/Lab3-18.05.pdf)
+- Lab 4 [Instruction](/FILES/Lab4-25.05.pdf)
 
 
 
