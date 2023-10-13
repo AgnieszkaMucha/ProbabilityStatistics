@@ -4,7 +4,7 @@
 ### Lectures
 Lectures are held on Wednesdays from 9:40-11:10 in room D10 room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
 - What is a statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
-- Random variable [Lecture](/FILES/stat_2.pdf)
+- Random variable [Lecture](/FILES/stat_2.pdf) 18.10 online at 9:15, link is [here](https://teams.microsoft.com/l/team/19%3aCe0QyHZHmZN8PFnUCReD11MrUiVpPofR_KO111PLQSM1%40thread.tacv2/conversations?groupId=55634c8b-caea-4bf5-a860-a9615035c2d1&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8)
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
 - Bernouli, Poisson and Gaussian distributions  [Lecture](/FILES/stat_4-5.pdf)
 - Central Limit Theorem  [Lecture](/FILES/stat_6.pdf)  [Statistical tables](/FILES/StatistialTables.pdf) 
