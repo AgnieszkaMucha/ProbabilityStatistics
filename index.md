@@ -21,7 +21,7 @@ Lectures are held on Wednesdays from 9:40-11:10 in room D10 room 225 building D1
 ### Tutorials
 Wednesdays at 11:20-12:50  in room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
-- Assignments [Conditional probability](/FILES/Tutorial2_Winter23.pdf) 18.10.2023 
+- Assignments 18.10.2023 [Conditional probability](/FILES/tutorial2_Winter23.pdf)  
 - Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) 
 - Assignments [Joint distribution](/FILES/Statistics_Tutorial_4.pdf) 
 - Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
