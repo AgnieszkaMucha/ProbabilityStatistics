@@ -15,7 +15,7 @@ Lectures are held on Wednesdays from 9:40-11:10 in room D10 room 225 building D1
 - Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Retake test 
-- Exam  (requirement: positive grade from tutorials)
+- Exam  (requirement: positive grade from tutorials) 24.01.2024
 - Retake exam
 
 ### Tutorials
