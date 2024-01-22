@@ -16,8 +16,8 @@ Lectures are held on Wednesdays from 9:40-11:10 in room D10 room 225 building D1
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
 - Error Propagation Formula, PCA [Lecture](/FILES/corr_PCA.pdf)
 - Retake test 
-- Exam  (requirement: positive grade from tutorials) 24.01.2024
-- Retake exam
+- Exam  (requirement: positive grade from tutorials) 24.01.2024 9:40 D10/225
+- Retake exam 31.01 at 16:00 D10 319
 
 ### Tutorials
 Wednesdays at 11:20-12:50  in room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
