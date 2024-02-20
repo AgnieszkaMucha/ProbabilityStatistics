@@ -2,9 +2,9 @@
 # Introduction to probability, statistics, and data handling 
 
 ### Lectures
-Lectures are held on Wednesdays from 9:40-11:10 in room D10 room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
+Lectures are held on Thursdays 8-9:30 in room D10 room 225 building D10 (Reymonta 19). First meeting: 29.02.2024.
 - What is a statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
-- Random variable [Lecture](/FILES/stat_2.pdf) 18.10 online at 9:15, link is [here](https://teams.microsoft.com/l/team/19%3aCe0QyHZHmZN8PFnUCReD11MrUiVpPofR_KO111PLQSM1%40thread.tacv2/conversations?groupId=55634c8b-caea-4bf5-a860-a9615035c2d1&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8)
+- Random variable [Lecture](/FILES/stat_2.pdf) 
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
 - Bernouli, Poisson and Gaussian distributions  [Lecture](/FILES/stat_4-5.pdf)
 - Central Limit Theorem  [Lecture](/FILES/stat_6.pdf)  [Statistical tables](/FILES/StatistialTables.pdf) 
@@ -74,7 +74,7 @@ ANOVA [instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/One-Way_ANOVA.pdf
 ### Contact 
 Course coordinator: dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH  [mail](amucha@agh.edu.pl)  <br>
 Assistant M.Sc. Saliha Bashir [mail](bashir@agh.edu.pl)  <br>
-AGH University of Science and Technology Kraków, Poland <br>
+AGH University of Kraków, Poland <br>
 Faculty of Physics and Applied Computer Science <br>
 D11 room 106 <br>
 ul. Kawiory 26a, 30-055 Kraków <br>
