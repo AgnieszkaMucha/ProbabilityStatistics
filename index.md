@@ -22,10 +22,10 @@ Lectures are held on Thursdays 8-9:30 in room D10 room 225 building D10 (Reymont
 ### Tutorials
 Wednesdays at 11:20-12:50  in room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
-- Assignments 18.10.2023 [Conditional probability](/FILES/tutorial2_Winter23.pdf)  
-- Assignments 25.20.2023 [RV, pdf](/FILES/Statistics_Tutorial3.pdf) 
-- Assignments 8.11.2023 [Joint distribution](/FILES/tutorial4-JointRV.pdf) 
-- Assignments 15.11.2023 [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
+- Assignments [Conditional probability](/FILES/tutorial2_Winter23.pdf)  
+- Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) 
+- Assignments [Joint distribution](/FILES/tutorial4-JointRV.pdf) 
+- Assignments [Gaussian and binomial distribution](/FILES/tutorial5.pdf) 
 - Assignments more practice with [normal distribution](/FILES/Tutorial_5b.pdf)  
 - Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
 - Assignments [Confidence intervals](/FILES/tutorial7.pdf) 
