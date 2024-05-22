@@ -12,8 +12,8 @@ Lectures are held on Thursdays 8-9:30 in room D10 room 225 building D10 (Reymont
 - Confidence intervals  [Lecture](/FILES/stat_8.pdf)
 - Hypothesis testing  [Lecture](/FILES/stat_esa_7.pdf)
 - Tests for means and variance cont. [Lecture](/FILES/stat_esa_8.pdf)
-- Curve fitting and regression   [Lecture](/FILES/stat_12.pdf)
-- Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_11.pdf)
+- Curve fitting and regression   [Lecture](/FILES/stat_esa_9.pdf)
+- Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
 - Error Propagation Formula, PCA [Lecture](/FILES/corr_PCA.pdf)
 - Retake test 
 - Exam  (requirement: positive grade from tutorial) 13.06.2024 
