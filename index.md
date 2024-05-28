@@ -14,10 +14,10 @@ Lectures are held on Thursdays 8-9:30 in room D10 room 225 building D10 (Reymont
 - Tests for means and variance cont. [Lecture](/FILES/stat_esa_8.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_esa_9.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
-- Error Propagation Formula, PCA [Lecture](/FILES/corr_PCA.pdf)
-- Retake test 
-- Exam  (requirement: positive grade from tutorial) 13.06.2024 
-- Retake exam 20.06.2024 
+- Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
+- Retake test 6.06.2024 
+- Exam  (requirement: positive grade from tutorial) 13.06.2024 at 8:00 D10/225
+- Retake exam 20.06.2024 at 8:00 D10/225
 
 ### Tutorials
 Wednesdays at 11:20-12:50  in room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
