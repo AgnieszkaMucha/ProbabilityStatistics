@@ -17,7 +17,7 @@ Lectures are held on Thursdays 8-9:30 in room D10 room 225 building D10 (Reymont
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
 - Retake test 6.06.2024 
 - Exam  (requirement: positive grade from tutorial) 13.06.2024 at 8:00 D10/225
-- Retake exam 20.06.2024 at 8:00 D10/225
+
 
 ### Tutorials
 Wednesdays at 11:20-12:50  in room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
