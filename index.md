@@ -2,7 +2,7 @@
 # Introduction to probability, statistics, and data handling 
 
 ### Lectures
-Lectures are held on Thursdays 8-9:30 in room D10 room 225 building D10 (Reymonta 19). First meeting: 29.02.2024.
+Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting: 29.02.2024.
 - What is a statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf) 
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
@@ -15,12 +15,11 @@ Lectures are held on Thursdays 8-9:30 in room D10 room 225 building D10 (Reymont
 - Curve fitting and regression   [Lecture](/FILES/stat_esa_9.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
-- Retake test 6.06.2024 
-- Exam  (requirement: positive grade from tutorial) 13.06.2024 at 8:00 D10/225
+- Retake test
+- Exam  (requirement: positive grade from tutorial) 
 
 
 ### Tutorials
-Wednesdays at 11:20-12:50  in room 225 building D10 (Reymonta 19). First meeting: 10th of October 2023.
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
 - Assignments [Conditional probability](/FILES/tutorial2_Winter23.pdf)  
 - Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) 
