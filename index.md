@@ -5,9 +5,9 @@
 Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting: 29.02.2024.
 - What is a statistic for? Conditional probability [Lecture](/FILES/stat_1.pdf)
 - Random variable [Lecture](/FILES/stat_2.pdf) 
-- 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
-- Bernouli, Poisson and Gaussian distributions  [Lecture](/FILES/stat_4.pdf)
-- Central Limit Theorem  [Lecture](/FILES/stat_5.pdf)  [Statistical tables](/FILES/StatistialTables.pdf) 
+- Bernouli, Poisson and Gaussian distributionsy [Lecture](/FILES/stat_3.pdf)
+- Law of large numbers, Chebyshev Inequality  [Lecture](/FILES/stat_4.pdf) [Statistical tables](/FILES/StatistialTables.pdf) 
+- Central Limit Theorem  [Lecture](/FILES/stat_5.pdf)  
 - Point estimation  [Lecture](/FILES/stat_7.pdf)
 - Confidence intervals  [Lecture](/FILES/stat_8.pdf)
 - Hypothesis testing  [Lecture](/FILES/stat_esa_7.pdf)
