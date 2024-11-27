@@ -8,7 +8,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting
 - Bernouli, Poisson and Gaussian distributions [Lecture](/FILES/stat_3.pdf) [Statistical tables](/FILES/StatistialTables.pdf)
 - Law of large numbers, Chebyshev Inequality, Central Limit Theorem  [Lecture](/FILES/stat_4.pdf)  
 - Point estimation  [Lecture](/FILES/stat_5.pdf)
-- Confidence intervals  [Lecture](/FILES/stat_8.pdf)
+- Confidence intervals  [Lecture](/FILES/stat_6.pdf)
 - Hypothesis testing  [Lecture](/FILES/stat_esa_7.pdf)
 - Tests for means and variance cont. [Lecture](/FILES/stat_esa_8.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_esa_9.pdf)
