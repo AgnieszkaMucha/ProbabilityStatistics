@@ -15,7 +15,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
 - Retake test
-- Exam  (requirement: positive grade from tutorial) 29.01.2014 11🕥
+- Exam  (requirement: positive grade from tutorial) 29.01.2014 11:30
 
 
 ### Tutorials
