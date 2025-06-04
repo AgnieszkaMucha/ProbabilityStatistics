@@ -14,9 +14,8 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting
 - Curve fitting and regression   [Lecture](/FILES/stat_esa_9.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
-- Retake test
-- Exam  (requirement: positive grade from the tutorial) 23.04.2025 8-9:30 (Monday with Thursday's timetable)
-- Retake exam: 
+- Exam  (requirement: positive grade from the tutorial) 23.06.2025 9:30-11 (Monday with Thursday's timetable)
+- Retake exam: 26.06.2025 9:30-11
 - Final Grade is calculated as: 0.3 Tutorial + 0.2 Laboratory + 0.5 Exam
 
 
