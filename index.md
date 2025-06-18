@@ -29,7 +29,8 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting
 - Assignments more practice with [normal distribution](/FILES/Tutorial_5b.pdf)  
 - Assignments [Central Limit Theorem](/FILES/tutorial6.pdf) 
 - Assignments [Confidence intervals](/FILES/tutorial7-erasmus.pdf) 
-- Assignments [Hyphothesis testing](/FILES/tutorial8.pdf) 
+- Assignments [Hyphothesis testing](/FILES/tutorial8.pdf)
+- Retake tutorial: 26.06.2025 9:30-11
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
