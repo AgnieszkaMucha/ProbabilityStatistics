@@ -15,7 +15,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
 - Exam  (requirement: positive grade from the tutorial) 23.06.2025 9:30-11 (Monday with Thursday's timetable)
-- Retake exam: 01.07.2025 at 10 am in D10/225
+- Retake exam: 01.07.2025 at 10 am, room 104/D11
 - Final Grade is calculated as: 0.3 Tutorial + 0.2 Laboratory + 0.5 Exam
 
 
@@ -31,7 +31,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19). First meeting
 - Assignments [Confidence intervals](/FILES/tutorial7-erasmus.pdf) 
 - Assignments [Hyphothesis testing](/FILES/tutorial8.pdf)
 - Retake tutorial: 23.06.2025 9:30-11
-- Second Retake tutorial: 01.07.2025 at 10 225/D10
+- Second Retake tutorial: 01.07.2025 at 10 am, room 104/D11
 
 
 ### Laboratory [Statgraphics Centurion 19](https://www.statgraphics.com/centurion-overview) 
