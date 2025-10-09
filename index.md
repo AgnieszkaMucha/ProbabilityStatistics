@@ -79,10 +79,10 @@ ANOVA [instruction](https://cdn2.hubspot.net/hubfs/402067/PDFs/One-Way_ANOVA.pdf
 ### Contact 
 Course coordinator: dr hab. inż. Agnieszka Obłąkowska-Mucha, prof AGH  D11 room 110  [mail](amucha@agh.edu.pl)  <br>
 Assistant M.Sc. Saliha Bashir D11 room 106  [mail](bashir@agh.edu.pl)  
+ul. Kawiory 26a, 30-055 Kraków <br>
 AGH University of Kraków, Poland <br>
 Faculty of Physics and Applied Computer Science <br>
 
-ul. Kawiory 26a, 30-055 Kraków <br>
 
 
 
