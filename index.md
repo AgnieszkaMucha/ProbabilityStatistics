@@ -14,13 +14,15 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19).
 - Curve fitting and regression   [Lecture](/FILES/stat_esa_9.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
-- Exam  (requirement: positive grade from the tutorial) 23.06.2025 9:30-11 (Monday with Thursday's timetable)
-- Retake exam: 01.07.2025 at 10 am, room 104/D11
-- Final Grade is calculated as: 0.3 Tutorial + 0.2 Laboratory + 0.5 Exam
+- Exam  (requirement: positive grade from the tutorial) 29th of January 2026
+- Retake exam: 5th of February 2026
+- Final Grade is calculated as: 0.3 Tutorial + 0.2 Laboratory + 0.5 Exam + lecture activity
 
 
 
 ### Tutorials
+You can find assignments in the MS Teams group
+<--!
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
 - Assignments [Conditional probability](/FILES/tutorial2_Winter23.pdf)  
 - Assignments [RV, pdf](/FILES/Statistics_Tutorial3.pdf) 
@@ -41,7 +43,7 @@ Wednesdays at 11:20-12:50 (starting in December)  in room 207 building D10 (Reym
 - Lab 3 [Instruction](/FILES/Lab3-18.05.pdf)
 - Lab 4 [Instruction](/FILES/Lab4-25.05.pdf)
 
-
+-->
 
 <!--
 - Assignments (20.10) [Conditional probability](/FILES/Tutorial_2.pdf) 
