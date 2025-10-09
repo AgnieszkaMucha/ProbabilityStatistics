@@ -22,6 +22,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19).
 
 ### Tutorials
 You can find assignments in the MS Teams group
+
 <--!
 - Assignments [Basic probability](/FILES/Statistics_Tutorial1.pdf) 
 - Assignments [Conditional probability](/FILES/tutorial2_Winter23.pdf)  
