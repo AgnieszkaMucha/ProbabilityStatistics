@@ -16,6 +16,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19).
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
 - Exam  (requirement: positive grade from the tutorial) 29th of January 2026 at 8:00, room 225/D10
 - Retake exam: 5th of February 2026 at 9:30, room 225/D10
+- SecondRetake exam: 9th of February 2026 at 9:30, room 225/D10
 - Final Grade is calculated as: 0.3 Tutorial + 0.2 Laboratory + 0.5 Exam + lecture activity
 
 
