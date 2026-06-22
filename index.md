@@ -16,7 +16,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19).
 - Error Propagation Formula, PCA [Lecture](/FILES/stat_esa_11.pdf)
 - Exam  (requirement: positive grade from the tutorial): 22.06 at 8 am, room 225/D10
 - Retake exam: 25.06
-- Second retake exam: 29.09
+- Second retake exam: 29.06
 - Final Grade is calculated as: 0.3 Tutorial + 0.2 Laboratory + 0.5 Exam + lecture activity
 
 
