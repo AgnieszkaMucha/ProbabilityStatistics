@@ -9,7 +9,7 @@ Lectures are held in room D10 room 225 building D10 (Reymonta 19).
 - Law of large numbers, Chebyshev Inequality, Central Limit Theorem  [Lecture](/FILES/stat_4.pdf)
 - Confidence intervals  [Lecture](/FILES/stat_6.pdf)
 - Point estimation  [Lecture](/FILES/stat_5.pdf)
-- Hypothesis testing  [Lecture](/FILES/stat_esa_7.pdf)
+- Hypothesis testing  [Lecture](/FILES/stat_7.pdf)
 - Tests for means and variance cont. [Lecture](/FILES/stat_esa_8.pdf)
 - Curve fitting and regression   [Lecture](/FILES/stat_esa_9.pdf)
 - Point estimation cont. (MMM MLS, MML) [Lecture](/FILES/stat_esa_10.pdf)
